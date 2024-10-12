@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/originals/c8/67/3a/c8673ad4c46ade00cf3bd0049db62b16.jpg)
+![logo](https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/https://builtin.com/sites/www.builtin.com/files/full-stack-developer.jpg)
 <h1 align="center">Hi 👋, I'm Shahin idrisi</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
