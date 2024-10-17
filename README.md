@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shahin14623@gmail.com**
 
-- 💬 Feel free to reach out to me on  **LinkedIn**
+- 💬 Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/greeshma-raut-41344b333).
 
 - ⚡ Fun fact **I think I am funny**
 
