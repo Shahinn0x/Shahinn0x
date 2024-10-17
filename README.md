@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **shahin14623@gmail.com**
 
+- 💬 Feel free to reach out to me on  **LinkedIn**
+
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
